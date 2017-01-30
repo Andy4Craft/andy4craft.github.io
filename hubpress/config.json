@@ -4,7 +4,11 @@
     "repositoryName": "andy4craft.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Andy4Craft"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
